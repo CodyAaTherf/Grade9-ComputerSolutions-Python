@@ -1,3 +1,5 @@
+# Take 2 numbers as input. Convert these numbers to positive numbers if they are negative and vice versa.
+
 # For neg_num I am not sure about what is the most efficient way.
 
 num = int(input("Enter the number: "))
